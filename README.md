@@ -5,3 +5,5 @@ O jogo consiste em uma janela de fundo azul, onde um foguete aparece centralizad
 para qualquer direção usando as teclas: cima, baixo, direita e esquerda. 
 
 OBS: O foguete não consegue sair da janela do jogo.
+
+<img src='https://github.com/EddieMC-Dev/Rocket-Game/blob/main/imagem_do_jogo.PNG?raw=true'>
