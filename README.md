@@ -1,6 +1,6 @@
 # Rocket-Game
 
-Boa tarde queridos leitores, hoje trago um joguinho feito em Python usando a biblioteca do Pygame como ferramenta. 
+Boa tarde queridos leitores, hoje trago um protótipo de jogo feito em Python usando a biblioteca do Pygame como ferramenta. 
 O jogo consiste em uma janela de fundo azul, onde um foguete aparece centralizado na tela e ele pode se mover
 para qualquer direção usando as teclas: cima, baixo, direita e esquerda. 
 
